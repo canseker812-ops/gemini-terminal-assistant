@@ -1,0 +1,1 @@
+Software engineering is not just about writing code; it is about solving real-world problems efficiently. Understanding system architecture and clean code principles allows engineers to build reliable solutions.
